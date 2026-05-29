@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**samikshaa-wchar/samikshaa-wchar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Samiksha Awchar 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+🎓 Aspiring Data Analyst  
+📊 Learning Power BI, Excel, SQL & Python  
+📈 Interested in Data Visualization and Business Analytics  
+🌱 Currently improving Data Cleaning & Dashboard Skills  
+
+## Skills
+- Excel
+- Power BI
+- SQL
+- Python
+- Data Cleaning
+- Data Visualization
+
+## Projects
+🔹 Sales Dashboard Project  
+🔹 Customer Analysis Project  
+🔹 Data Cleaning using Excel  
+
+## Certifications
+- Data Analytics Certification
+- Power BI Workshop
+- Excel for Data Analysis
+
+## Connect With Me
+- LinkedIn: Your Link
+- Email: yourmail@gmail.com
