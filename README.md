@@ -27,5 +27,5 @@
 - Excel for Data Analysis
 
 ## Connect With Me
-- LinkedIn: Your Link
-- Email: yourmail@gmail.com
+- LinkedIn: https://www.linkedin.com/in/samiksha-awchar-951650328
+- Email: samikshaawchar2@gmail.com
